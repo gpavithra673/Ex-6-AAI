@@ -1,8 +1,8 @@
-<H3>Pavithra G</H3>
-<H3>212221240036</H3>
+<H4>Pavithra G</H4>
+<H5>212221240036</H5>
 <H3>EX. NO.6</H3>
-<H3>DATE:</H3>
-<H1 ALIGN =CENTER>Implementation of Semantic ANalysis</H1>
+<H6>DATE: 21.10.24</H6>
+<H1 ALIGN =CENTER>Implementation of Semantic Analysis</H1>
 
 ## Aim: 
 To perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques. 
