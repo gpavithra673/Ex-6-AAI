@@ -1,7 +1,7 @@
 <H4>Pavithra G</H4>
-<H5>212221240036</H5>
-<H3>EX. NO.6</H3>
-<H6>DATE: 21.10.24</H6>
+<H4>212221240036</H4>
+<H4>EX. NO.6</H4>
+<H4>DATE: 21.10.24</H4>
 <H1 ALIGN =CENTER>Implementation of Semantic Analysis</H1>
 
 ## Aim: 
